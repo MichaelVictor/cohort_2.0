@@ -1,4 +1,5 @@
 # cohort_2.0
 introduction to git and github
 please add your name and user name
-UBA JOSEPH      @kalistos1
+UBA JOSEPH      @kalistos1 
+VICTOR MICHAEL  @MichaelVictor
